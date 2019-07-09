@@ -146,7 +146,7 @@ public class ManutencaoCamisa extends javax.swing.JDialog {
     }//GEN-LAST:event_jtfCorActionPerformed
 
     private void btnAdicionarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnAdicionarActionPerformed
-controlador.ControladorCamisa.inserir(this);        // TODO add your handling code here:
+     controlador.ControladorCamisa.inserir(this);  // TODO add your handling code here:
     }//GEN-LAST:event_btnAdicionarActionPerformed
 
     /**
